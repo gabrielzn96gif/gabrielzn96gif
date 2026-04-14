@@ -1,62 +1,75 @@
-<!-- TÍTULO COM ANIMAÇÃO -->
+<!-- HEADER -->
+
+<h1 align="center">Vitor Gabriel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFCC&size=28&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Vitor+Gabriel;Estudante+de+Programação;Designer+e+Criador+de+Sites;Sempre+evoluindo..." />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFCC&size=24&center=true&vCenter=true&width=500&lines=Front-end+%2B+UI+Design;Criando+interfaces+modernas;16+anos+em+evolução" />
 </p>
 
 ---
 
-<!-- SOBRE + IMAGEM -->
+<!-- SOBRE + IMG -->
 
-<img align="right" width="300px" src="https://i.pinimg.com/736x/7d/9d/28/7d9d284a9c87ca01fac34a40f8b5840d.jpg">
+<div align="center">
+  <img width="250" src="https://i.pinimg.com/736x/7d/9d/28/7d9d284a9c87ca01fac34a40f8b5840d.jpg">
+</div>
+
+<br>
 
 ## 🧠 Sobre mim
 
-Me chamo **Vitor Gabriel**, tenho **16 anos** e estou iniciando minha trajetória no mundo da programação.
-Mesmo ainda adquirindo experiência prática, já me destaco na criação de **designs modernos** e no desenvolvimento de **sites bem estruturados**.
+Sou o **Vitor Gabriel**, focado em **front-end e UI Design**.  
+Gosto de criar interfaces que sejam **visualmente fortes e bem estruturadas**.
 
-Sou focado em evolução constante, sempre buscando aprender novas tecnologias e melhorar minhas habilidades como desenvolvedor.
+Tenho atenção em detalhes como:
+- tipografia  
+- cores  
+- espaçamento  
+- organização visual  
+
+Aprendo construindo projetos e evoluindo na prática.
 
 ---
 
-## 🚀 Área de atuação
+## 🎯 Foco atual
 
-* 💻 Desenvolvimento de Sistemas
-* 🌐 Criação de Sites
-* 🎨 Design de Interfaces
+<div align="center">
+
+💻 Front-end  
+🎨 UI Design  
+⚙️ Projetos próprios  
+
+</div>
 
 ---
 
 ## 🧪 Tecnologias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ffcc"/>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ffcc"/>
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00ffcc"/>
-  <img src="https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=00ffcc"/>
+  <img src="https://skillicons.dev/icons?i=js,python,html,css" />
 </p>
 
 ---
 
-## 🛠️ Ferramentas
+## 🎨 Design & Ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00ffcc"/>
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ffcc"/>
+  <img src="https://skillicons.dev/icons?i=figma,vscode,github" />
 </p>
 
 ---
+
+
 
 ## 🌌 Contato
 
 <p align="center">
-  <a href="mailto:vitor.gabriel15@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00ffcc"/>
+  <a href="mailto:vitor.gabrielsb15@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ffcc"/>
   </a>
 </p>
-
 ---
 
 <p align="center">
-  💚 <i>"Sempre evoluindo um código de cada vez."</i> 🚀
+  <i>"Interface bonita chama atenção. Interface bem feita segura."</i>
 </p>
